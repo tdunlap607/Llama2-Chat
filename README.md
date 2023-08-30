@@ -1,2 +1,3 @@
 # Llama2-Chat
-Inference using Llama2
+
+Exploring Llama 2 capabilities
